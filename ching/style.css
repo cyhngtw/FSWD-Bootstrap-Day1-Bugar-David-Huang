@@ -1,0 +1,39 @@
+.page-header{
+	background-color: #AE4242;
+	height: 100px;
+	color: white;
+	padding-top: 30px;
+	padding-left: 60px;
+	text-align: left;
+	margin: 0px;
+	border: 1px solid black;
+}
+
+p {
+  font-weight: bold;
+}
+
+.container {
+ background-color: lightgray;
+
+}
+
+.row {
+ background-color: white;
+border: 1px solid red;
+
+}
+
+.content{
+	background-color: white;
+}
+img{
+	background-color: white;
+}
+
+.col-lg-2{
+ background-color: black;
+
+ 
+
+}
